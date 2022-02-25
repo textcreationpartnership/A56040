@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for raising a very considerable summ of money on ships and other vessels whereby the sea as well as the land may be made to contribute to the defence of both.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56040</idno>
+            <idno type="STC">Wing P3740A</idno>
+            <idno type="STC">ESTC R14221</idno>
+            <idno type="EEBO-CITATION">12279268</idno>
+            <idno type="OCLC">ocm 12279268</idno>
+            <idno type="VID">58607</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56040)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58607)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 820:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for raising a very considerable summ of money on ships and other vessels whereby the sea as well as the land may be made to contribute to the defence of both.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:58607:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>PROPOSALS For Raiſing a very Conſiderable Summ of Money on Ships and other Veſſels, whereby the Sea as well as the Land may be made to Contribute to the Defence of Both.</head>
+            <list>
+               <item>I. THAT there be a general Tax laid on all the Ships, Barques, Barges, Lighters, Boats, Bottoms, or other Veſſels, whatſoever, that go upon the Water, by way of Tunnage, at the rate of twelve pence <hi>per</hi> Tun to be paid by the Owners and Proprietors of all ſuch Veſſels, that are for the time being within this Kingdom of <hi>England,</hi> Dominions of <hi>Wales,</hi> or Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> or within any of the Ports, Havens, Harbours, Creeks, and Roads belonging to the ſame, to be paid within a limited time. And publick Gaugers to be appointed at every Cuſtom-Houſe or Port to Collect it, taking in all the Havens and Creeks within their reſpective Diſtricts.</item>
+               <item>II. Secondly, That all Ships and other Veſſels, that are at this time abroad in Voyages, do pay their Tunnage at the aforeſaid rate of twelve pence <hi>per</hi> Tun on their arrival to their reſpective Ports of Diſcharge in <hi>England,</hi> and not admitted to be diſcharged at the Cuſtom-Houſe till this Duty be paid.</item>
+               <item>III. That after all the aforeſaid Ships, Barques, Barges, Lighters, Boats, and other Veſſels have paid this General Tax of twelve pence <hi>per</hi> Tu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, all Trading Veſſels to pay twelve pence <hi>per</hi> Tun Outwards, and twelve pence <hi>per</hi> Tun Inwards, to the Officers appointed to Collect the ſame at th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: missing" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctiv<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cuſtom-Houſes during the Term of three years from the twenty fifth of <hi>December</hi> next enſuing.</item>
+               <item>IV. Tha<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Coaſt Trading Veſſels, Barges, Lighters, Boats, <hi>&amp;c.</hi> pay twelve pence <hi>per</hi> Tun yearly during the Term aforeſaid; beſides the general charge of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pence <hi>per</hi> Tun in the firſt Article.</item>
+               <item>V. That there <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> General Office kept in the Port of <hi>London,</hi> for a Correſpondency with all the Out Ports in reference to this Duty, and for the obſervance of ſuch Orders, Rules, and Directions as ſhall in purſuance of an Act of Parliament be given to this purpoſe.</item>
+            </list>
+            <p>The Method for Collecting this Tax, and the proper Officers to be employed: their Qualifications, and the Proviſions to be made for ſe<g ref="char:EOLhyphen"/>curing the payment of this Duty according to the juſt Gauge of every Veſſel, and the Penalties of ſuch as ſhall make default, with divers other things relating to this Duty ſhall be ready to be preſented in due time, when the ma<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>r herein is approved of.</p>
+            <div type="part">
+               <head>The Reaſons for this Tunnage-Tax (amongſt many others) may be theſe.</head>
+               <list>
+                  <item>I. FIRST, Becauſe it will amount to a very conſiderable Summ.</item>
+                  <item>II. It may be made a certain Fund for a ſecurity to any Bankers that ſhall advance Money on the Credit of the Act.</item>
+                  <item>III. A great part of the Money will be raiſed in a very ſhort time on all the Ships and other Veſſels, that for the time being, after the paſſing the Act, ſhall be in the Kingdom.</item>
+                  <item>IV. The Method of Collecting it will be leſs chargeable than other Publick Taxes.</item>
+                  <item>V. 'Tis moſt reaſonable that the Product of the Profits of the Trade at Sea ſhould bear ſome part of the Burthen with the Land.</item>
+                  <item>VI. 'Tis a moſt eaſie Tax in Compariſon of the uſual Land Taxes, for according to the loweſt computation there are few Veſſels that with Rigging, Tackle, and all their Furniture, are not worth, to be ſold, more than three pounds <hi>per</hi> Tun, for which is paid but one Shilling, the ſixtieth part: Whereas the Land Taxes, at three pence <hi>per</hi> pound <hi>per menſem,</hi> come to three Shillings in the pound, which is near a ſixth part <hi>per an<g ref="char:EOLhyphen"/>num,</hi> whereas the Tunnage propoſed is but the ſixtieth part of the Intrinſick value of the Ships and Veſſels hereby charged.</item>
+                  <item>VII. A Tenement of thirty pounds <hi>per annum</hi> pays, at the rate aforeſaid, about five pounds <hi>per annum</hi> to the Publick Tax, and a Ship of an hundred Tun pays no more. And after the deduction of Laborers and Servants Wages, and other neceſſary Charges in manuring the Land Eſtate of thirty pounds <hi>per annum,</hi> and deduction of all the Charges of a Ship of an hundred Tun for one years Trading, the Product of the clear Profit of this Ships Trade for one year, is uſually at leaſt four times as much as the profit of this Tenement of thirty pounds <hi>per annum,</hi> that pays notwithſtanding, at the rate aforeſaid, as much as the propoſed Tunnage.</item>
+                  <item>VIII. It is alſo to be conſidered the Land hath on all occaſions for ſome ſcores of years laſt paſt been burthened with many repeated heavy Taxes, whereas the Merchants and Owners of Ships, that Trade at Sea, have been wholly exempted.</item>
+               </list>
+               <div type="section">
+                  <head>
+                     <hi>Objection.</hi> If it be Objected that the Merchants pay a Duty for all Goods that they Export or Import.</head>
+                  <p>
+                     <label>Anſwer</label> 
+                     <list>
+                        <item>I. THERE muſt be a diſtinction made between the Profit of the Ship by way of Freight, and the Product of the Merchants Cargoe, which are different things.</item>
+                        <item>II. Many Owners get great Eſtates, only by the Freight of their Ships, that never Trade by way of Merchandize, and they pay no Duty.</item>
+                        <item>III. The Merchant never loſeth, but often gains, by the Kings Cuſtoms; for he advanceth the price of the Commodity anſwerable to the Charge of the Cuſtoms, only the Merchant lays it out, and the Country reimburſe them again with Advantage.</item>
+                        <item>IV. But when the Merchant runs his Goods without paying Cuſtom (which is not unuſual) in this Caſe the Merchants Gains are much the greater by reaſon of the Cuſtoms, for he ſells as if he had paid the Duty, and makes the Country pay accordingly.</item>
+                        <item>V. The Revenue ariſing by the Cuſtoms is applyed ſolely to the Uſe, Service, Benefit, and Advantage of thoſe that Trade at Sea. And the Cuſtoms by the Act of Tunnage and Poundage, are given to that very end and purpoſe, for the Guarding and Defending of the Seas, and very probably the King adds a great part of the other Revenue alſo towards it. So though the Country as aboveſaid, in effect, do repay the Cuſtoms, yet the Merchants and Owners have the ſole benefit of it.</item>
+                     </list>
+                  </p>
+                  <p>And for all theſe (and other Reaſons, too large to enumerate) the Duty of Cuſtom can be no reaſon to exempt the Merchants and Owners from the Duty of Tunnage herein propoſed.</p>
+                  <p>
+                     <hi>If any other Objections ſhould be made, when known, they may receive an Anſwer.</hi>
+                  </p>
+                  <p>
+                     <hi>If the Propoſer receives Encouragement, he intends to offer Propoſals for Advancing the Revenue of their Majeſties Cuſtoms at leaſt</hi> 40000 l. per annum, <hi>without any Additional Impoſition; and which ſhall be alſo for the Advantage of all Merchants that fuſtly pay their Majeſties Cuſtoms.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
